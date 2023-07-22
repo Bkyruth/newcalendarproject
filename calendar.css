@@ -1,0 +1,62 @@
+body{
+    background-color: gray;
+}
+.wrapper{
+    Background-color: gray;
+    Height: 30px;
+    Align-content: center;
+}
+.flex-con1{
+    background-color: white;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 5px;
+    Justify-content: space-evenly;
+    Padding: 30px
+}
+#calcu{
+    background-color: #FF6347;
+    Text-align: center;
+    Border-radius:2px;
+}
+#date{
+    Background-color: white;
+    Text-align: center;
+    Border-radius:2px;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+    background: transparent;
+    bottom: 0;
+    color: transparent;
+    cursor: pointer;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+}
+.flex-con2{
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    justify-content: center;
+    margin-top: 10%;
+    Justify-content: space-evenly;
+    /* Gap: 20px; */
+}
+#6yr{
+    Background-color: white;
+    Border-radius: 2px;
+}
+#11m{
+    Background-color: white;
+    Padding: 1px 0px 1px 0px;
+    Border-radius: 2px;
+}
+#32d{
+    Background-color: white;
+Border-radius: 2px;
+}
