@@ -1,9 +1,9 @@
 body{
-    background-color: gray;
+    background-color: black;
 }
 .wrapper{
-    Background-color: gray;
-    Height: 25px;
+    Background-color: black;
+    Height: 40px;
     Align-content: center;
 }
 .flex-con1{
@@ -14,10 +14,10 @@ body{
     justify-content: center;
     border-radius: 5px;
     Justify-content: space-evenly;
-    Padding: 30px
+    Padding: 35px
 }
 #calcu{
-    background-color: #FF6347;
+    background-color: red;
     Text-align: center;
     Border-radius:2px;
 }
@@ -43,7 +43,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     flex-direction: row;
     border-radius: 5px;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 20%;
     Justify-content: space-evenly;
     /* Gap: 20px; */
 }
