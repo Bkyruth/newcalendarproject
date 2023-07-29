@@ -1,8 +1,8 @@
 body{
-    background-color: black;
+    background-color: ash;
 }
 .wrapper{
-    Background-color: black;
+    Background-color: ash;
     Height: 40px;
     Align-content: center;
 }
@@ -47,18 +47,18 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     justify-content: center;
     margin-top: 20%;
     Justify-content: space-evenly;
-    /* Gap: 20px; */
+    /* Gap: 15px; */
 }
 #6yr{
     Background-color: white;
-    Border-radius: 2px;
+    Border-radius: 5px;
 }
 #11m{
     Background-color: white;
     Padding: 1px 0px 1px 0px;
-    Border-radius: 2px;
+    Border-radius: 5px;
 }
 #32d{
     Background-color: white;
-Border-radius: 2px;
+Border-radius: 5px;
 }
